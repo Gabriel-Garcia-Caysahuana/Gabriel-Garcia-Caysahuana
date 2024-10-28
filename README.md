@@ -120,21 +120,17 @@
 </p>
 
 ### :octocat: Github Statistics
-
-<div style="text-align: center;">
+<div style="display: flex; flex-direction: column; align-items: center;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-bottom: 20px;"/>
-  
-  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin: 10px 0;"/>
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGarcia9&theme=radical&hide_border=false" alt="GitHub Streak" style="margin-bottom: 20px;"/>
-  
-  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGarcia9&theme=radical&hide_border=false" alt="GitHub Streak" style="margin: 10px 0;"/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="margin-bottom: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="margin: 10px 0;"/>
 </div>
+
 
 
 ### Connect With Me
