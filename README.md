@@ -32,6 +32,10 @@
   <a href="https://heroku.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </a>
+  <!-- fly.io -->
+  <a href="https://heroku.com" target="_blank">
+    <img src="https://fly.io/static/images/brand/logo-landscape.svg" alt="heroku" width="40" height="40"/>
+  </a>
 
   <!-- HTML5 -->
   <a href="https://www.w3.org/html/" target="_blank">
