@@ -20,7 +20,7 @@
 
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
   </a>
 
   <!-- Git -->
@@ -33,8 +33,8 @@
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </a>
   <!-- fly.io -->
-  <a href="https://heroku.com" target="_blank">
-    <img src="https://fly.io/static/images/brand/logo-landscape.svg" alt="heroku" width="40" height="40"/>
+  <a href="https://fly.io" target="_blank">
+    <img src="https://fly.io/static/images/brand/brandmark.svg" alt="fly" width="40" height="40"/>
   </a>
 
   <!-- HTML5 -->
@@ -123,8 +123,8 @@
   </a>
 
   <!-- scikit - learn -->
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/raw/master/icons/scikitlearn/scikitlearn-original.svg" alt="r" width="40" height="40"/> 
+  <a href="https://scikit-learn.org/stable/" target="_blank">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> 
   </a>
 
 
