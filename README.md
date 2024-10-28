@@ -14,21 +14,17 @@
 
 ### :octocat: Github Statistics
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-bottom: 20px;" />
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="gabriel" />
   
-  <br><br> 
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGarcia9&theme=radical&hide_border=false" alt="GitHub Streak" style="margin-bottom: 20px;" />
-  
-  <br><br>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+ <br><br>
+ 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGarcia9&theme=radical&hide_border=false" alt="gabriel" />
 
+<br><br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="gabriel" />
+</p>
 
 ### Connect With Me
 
