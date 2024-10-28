@@ -135,7 +135,7 @@
 
 ### Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/gabriel-garcia-caysahuana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabriel garcia" height="30" width="40" /></a>
  
 
