@@ -121,14 +121,14 @@
 
 ### :octocat: Github Statistics
 
-<p align="left">
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="gabriel" />
   
- <br>
+ <br><br>
  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGarcia9&theme=radical&hide_border=false" alt="gabriel" />
 
-<br>
+<br><br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="gabriel" />
 </p>
