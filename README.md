@@ -14,14 +14,10 @@
 
 ### :octocat: Github Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielGarcia9&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <p align="left">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="gabriel" />
  
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGarcia9&theme=radical&hide_border=false" alt="gabriel" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGarcia9&theme=radical&hide_border=false" alt="gabriel" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="gabriel" />
 </p>
@@ -31,44 +27,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-garcia-caysahuana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabriel garcia" height="30" width="40" /></a>
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 👋 Hi! I'm Gabriel
-
-Welcome to my GitHub profile! 🎉
-
-I am an **Economic Engineer** with a strong interest in **backend programming** and **artificial intelligence**. I enjoy applying my knowledge in **statistics** and **econometrics** to develop innovative solutions using **Python**.
-
-## 🚀 Interests
-- 🔍 **Artificial Intelligence**: Supervised and unsupervised learning models.
-- 💻 **Backend**: Application development with **Django** and deployment on **Fly.io**.
-- 📊 **Econometrics**: Predictive models to solve economic problems.
-
-## 🛠️ Technologies
-- **Languages**: Python, JavaScript, R, HTML, CSS, SQL
-- **Frameworks**: Django
-- **Deployment**: Fly.io, Heroku
-- **DB**: PostgreSQL, SQLite
-
-## 📫 Contact
-- **LinkedIn**: [Gabriel García Caysahuana](https://www.linkedin.com/in/gabriel-garcia-caysahuana)
-- **Website**: Coming soon
-
----
-
-Thanks for visiting my profile! 🚀
-
 
