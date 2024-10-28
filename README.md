@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gabriel Garcia</h1>
 <h3 align="center">A passionate Algorithms and backend developer from Perú</h3>
 
-- 📫 How to reach me **garciacaysahuana@gmail.com**
-
-- 📄 Know about my experiences [Resume]()
-
 ### Languages and Tools:
 
 <p align="left">
