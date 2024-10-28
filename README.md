@@ -1,25 +1,26 @@
-# 👋 ¡Hola! Soy Gabriel
+# 👋 Hi! I'm Gabriel
 
-¡Bienvenido a mi perfil de GitHub! 🎉
+Welcome to my GitHub profile! 🎉
 
-Soy **Ingeniero Económico** con un gran interés en la **programación backend** y la **inteligencia artificial**. Me gusta aplicar mis conocimientos en **estadística** y **econometría** para desarrollar soluciones innovadoras con **Python**.
+I am an **Economic Engineer** with a strong interest in **backend programming** and **artificial intelligence**. I enjoy applying my knowledge in **statistics** and **econometrics** to develop innovative solutions using **Python**.
 
-## 🚀 Intereses
-- 🔍 **Inteligencia Artificial**: Modelos de aprendizaje supervisado y no supervisado.
-- 💻 **Backend**: Desarrollo de aplicaciones con **Django** y despliegue en **Fly.io**.
-- 📊 **Econometría**: Modelos predictivos para resolver problemas económicos.
+## 🚀 Interests
+- 🔍 **Artificial Intelligence**: Supervised and unsupervised learning models.
+- 💻 **Backend**: Application development with **Django** and deployment on **Fly.io**.
+- 📊 **Econometrics**: Predictive models to solve economic problems.
 
-## 🛠️ Tecnologías
-- **Lenguajes**: Python, JavaScript, R, HTML, CSS, SQL
+## 🛠️ Technologies
+- **Languages**: Python, JavaScript, R, HTML, CSS, SQL
 - **Frameworks**: Django
-- **Despliegue**: Fly.io, Heroku
+- **Deployment**: Fly.io, Heroku
 - **DB**: PostgreSQL, SQLite
 
-## 📫 Contacto
+## 📫 Contact
 - **LinkedIn**: [Gabriel García Caysahuana](https://www.linkedin.com/in/gabriel-garcia-caysahuana)
-- **Página web**: Próximamente
+- **Website**: Coming soon
 
 ---
 
-¡Gracias por visitar mi perfil! 🚀
+Thanks for visiting my profile! 🚀
+
 
