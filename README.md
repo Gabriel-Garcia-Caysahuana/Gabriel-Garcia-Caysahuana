@@ -116,23 +116,21 @@
     <img src="https://github.com/devicons/devicon/raw/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> 
   </a>
 
-
 </p>
 
 ### :octocat: Github Statistics
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin: 0 auto;"/>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="gabriel" />
+</p>
   
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGarcia9&theme=radical&hide_border=false" alt="GitHub Streak" style="margin: 0 auto;"/>
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="margin: 0 auto;"/>
-</div>
 
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielGarcia9&theme=radical&hide_border=false" alt="gabriel" />
+</p>
 
-
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="gabriel" />
+</p>
 
 ### Connect With Me
 
