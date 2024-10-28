@@ -58,11 +58,10 @@
 
 ### :octocat: Github Statistics
 
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonyxhappie&show_icons=true&locale=en&theme=radical" alt="anonyxhappie" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonyxhappie&show_icons=true&locale=en&layout=compact&theme=radical" alt="anonyxhappie" />
-<!--img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anonyxhappie&theme=radical" alt="anonyxhappie" /-->
-</p>
+![](https://github-readme-stats.vercel.app/api?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielGarcia9&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### Connect With Me
 
