@@ -2,30 +2,24 @@
 
 ¡Bienvenido a mi perfil de GitHub! 🎉
 
-Soy **Ingeniero Económico** con un fuerte interés en la **programación backend** y la **inteligencia artificial**. Me encanta combinar mis conocimientos en **estadística** y **econometría** con el desarrollo de soluciones innovadoras usando **Python**.
+Soy **Ingeniero Económico** con un gran interés en la **programación backend** y la **inteligencia artificial**. Me gusta aplicar mis conocimientos en **estadística** y **econometría** para desarrollar soluciones innovadoras con **Python**.
 
-## 🚀 Áreas de interés
-- 🔍 **Inteligencia Artificial**: Modelos de aprendizaje supervisado y no supervisado, regresiones lineales y logísticas, clustering, y más.
-- 💻 **Backend Development**: Experiencia en el desarrollo de aplicaciones usando **Django** y despliegue en plataformas como **Fly.io y Heroku**.
-- 📊 **Estadística y Econometría**: Análisis de datos y modelos predictivos, con un enfoque en la resolución de problemas económicos y de negocios.
+## 🚀 Intereses
+- 🔍 **Inteligencia Artificial**: Modelos de aprendizaje supervisado y no supervisado.
+- 💻 **Backend**: Desarrollo de aplicaciones con **Django** y despliegue en **Fly.io**.
+- 📊 **Econometría**: Modelos predictivos para resolver problemas económicos.
 
-## 🛠️ Tecnologías y Herramientas
-- **Lenguajes de programación**: Python, JavaScript, R
-- **Otros lenguajes**: HTML, CSS, SQL
+## 🛠️ Tecnologías
+- **Lenguajes**: Python, JavaScript, R, HTML, CSS, SQL
 - **Frameworks**: Django
-- **Herramientas de despliegue**: Fly.io, Heroku, Git
-- **Bases de Datos**: PostgreSQL, SQLite
+- **Despliegue**: Fly.io, Heroku
+- **DB**: PostgreSQL, SQLite
 
-
-## 📫 ¡Hablemos!
-Si tienes alguna pregunta o deseas colaborar en un proyecto, ¡no dudes en contactarme!
-- **LinkedIn**: [tu_perfil_linkedin](https://www.linkedin.com/in/gabriel-garcia-caysahuana)
-- **Mi página web**: Proximamente
-
-## ⚡ Fun Fact
-Soy un apasionado del café ☕ y siempre estoy buscando nuevas formas de mejorar mis habilidades y aprender algo nuevo. ¡Cada día es una oportunidad para crecer!
+## 📫 Contacto
+- **LinkedIn**: [Gabriel García Caysahuana](https://www.linkedin.com/in/gabriel-garcia-caysahuana)
+- **Página web**: Próximamente
 
 ---
 
-¡Gracias por visitar mi perfil y revisar algunos de mis proyectos! 🚀
+¡Gracias por visitar mi perfil! 🚀
 
