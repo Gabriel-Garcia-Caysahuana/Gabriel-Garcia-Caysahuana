@@ -128,7 +128,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarcia9&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="gabriel" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGarcia9)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect With Me
 
