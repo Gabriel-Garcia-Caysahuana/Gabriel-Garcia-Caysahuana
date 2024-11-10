@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Gabriel Garcia</h1>
 <h3 align="center">A passionate Algorithms and backend developer from Perú</h3>
 
-### Projects
+### Projects:
 <p align="left">
   <ul>
     <li>Investment-stocks-weights-yfinance: https://investment-stocks-weights-yfinance-dvmcrmspcqjqg7r2sblyhh.streamlit.app/ </li>
   </ul>
 
 
+</p>
 
 ### Languages and Tools:
 
