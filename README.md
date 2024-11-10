@@ -4,7 +4,7 @@
 ### Projects:
 <p align="left">
   <ul>
-    <li>Investment-stocks-weights-yfinance: https://investment-stocks-weights-yfinance-dvmcrmspcqjqg7r2sblyhh.streamlit.app/ </li>
+    <li>Investment-stocks-weights-yfinance: [Click Aquí](https://investment-stock-analysis.streamlit.app/) </li>
   </ul>
 
 
