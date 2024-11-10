@@ -3,7 +3,9 @@
 
 ### Projects
 <p align="left">
-<p>Investment-stocks-weights-yfinance: [Click aquí](https://investment-stocks-weights-yfinance-dvmcrmspcqjqg7r2sblyhh.streamlit.app/) </p>
+  <ul>
+    <li>Investment-stocks-weights-yfinance: https://investment-stocks-weights-yfinance-dvmcrmspcqjqg7r2sblyhh.streamlit.app/ </li>
+  </ul>
 
 
 
