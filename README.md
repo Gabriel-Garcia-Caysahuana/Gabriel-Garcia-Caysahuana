@@ -125,16 +125,16 @@
 
 ### :octocat: Github Statistics
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Garcia-Caysahuana&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="gabriel" />
-</p>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Garcia-Caysahuana&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="gabriel" /> -->
+<!-- </p>
+ -->
+<p align="center">
+<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Garcia-Caysahuana&theme=radical&hide_border=false" alt="gabriel" /> -->
+<!-- </p> -->
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Garcia-Caysahuana&theme=radical&hide_border=false" alt="gabriel" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Garcia-Caysahuana&theme=radical&hide_border=false&layout=compact" alt="gabriel" />
-</p>
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Garcia-Caysahuana&theme=radical&hide_border=false&layout=compact" alt="gabriel" />
+</p> -->
 
 
 ### Connect With Me
