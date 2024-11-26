@@ -1,14 +1,57 @@
 <h1 align="center">Hi 👋, I'm Gabriel Garcia</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+profile!;I+love+learning+and+creating." />
+</p>
+
 <h3 align="center">A passionate Algorithms and backend developer from Perú</h3>
 
 ### Projects:
+- **[My Portfolio Website](#)**: A responsive web portfolio built with Django and Bootstrap, showcasing my projects and skills.
+- **[Expense Tracker](#)**: A web app to manage daily expenses, using Django for the backend and PostgreSQL for data storage.
+- **[Stock Price Visualizer](#)**: A tool to fetch and visualize historical stock prices, built with Python, Pandas, and Matplotlib.
+
+
+### Languages:
 <p align="left">
-  <ul>
-    
-  </ul>
-
-
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 </p>
+
+### Frameworks & Libraries:
+<p align="left">
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/></a>
+</p>
+
+### Tools:
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+  <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/></a>
+</p>
+
+
+### Connect With Me:
+<p align="center">
+  <a href="https://linkedin.com/in/gabriel-garcia-caysahuana" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40"/>
+  </a>
+</p>
+<p align="center">Feel free to connect with me on LinkedIn!</p>
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Languages and Tools:
 
@@ -122,19 +165,6 @@
   </a>
 
 </p>
-
-### :octocat: Github Statistics
-<p align="center">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Garcia-Caysahuana&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="gabriel" /> -->
-<!-- </p>
- -->
-<p align="center">
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Garcia-Caysahuana&theme=radical&hide_border=false" alt="gabriel" /> -->
-<!-- </p> -->
-
-<p align="center">
-<!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Garcia-Caysahuana&theme=radical&hide_border=false&layout=compact" alt="gabriel" />
-</p> -->
 
 
 ### Connect With Me
