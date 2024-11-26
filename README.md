@@ -31,6 +31,14 @@
   <a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
   <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/></a>
 </p>
+### Languages and Tools:
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> Python</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> JavaScript</a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> Django</a>
+</p>
+
+
 
 
 ### Connect With Me:
