@@ -104,7 +104,7 @@
 
 ### Connect With Me:
 <p align="center">
-  <a href="https://linkedin.com/in/gabriel-garcia-caysahuana" target="_blank">
+  <a href="https://linkedin.com/in/gabriel-garcia-caysahuana" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40"/>
   </a>
 </p>
