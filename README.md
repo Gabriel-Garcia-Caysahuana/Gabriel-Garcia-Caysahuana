@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Algorithms and backend developer from Perú</h3>
 
 ### Projects:
-- **[My Portfolio Website](#)**: A responsive web portfolio built with Django and Bootstrap, showcasing my projects and skills.
+- **[My Blog Personal Website](https://blog-garcia-caysahuana.fly.dev/)**: A responsive web portfolio built with Django and Bootstrap, showcasing my projects and skills.
 - **[Expense Tracker](#)**: A web app to manage daily expenses, using Django for the backend and PostgreSQL for data storage.
 - **[Stock Price Visualizer](#)**: A tool to fetch and visualize historical stock prices, built with Python, Pandas, and Matplotlib.
 
