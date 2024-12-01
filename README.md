@@ -7,7 +7,7 @@
 
 ### Projects:
 - **[My Blog Personal Website](https://blog-garcia-caysahuana.fly.dev/)**: Responsive personal blog using Django and Bootstrap, where I share articles of my own, including summaries, annotations, tutorials, and concepts. This space allows me to organize my notes and, at the same time, share them with others.
-- **[Time Series Visualizer and Predictor](#)**: A responsive web app (currently under development) that retrieves and visualizes historical data from the BCRP platform. It features interactive graphs (box plots, line charts, and annual comparisons) and real-time predictions using TensorFlow.js for regression analysis. Built with HTML, Bootstrap, and Plotly.js.
+- **[Time Series Visualizer and Predictor](#)**: A responsive web app (currently under development for more functionalities of different prediction models) that retrieves and visualizes historical data from the BCRP platform. It features interactive graphs (box plots, line charts, and annual comparisons) and real-time predictions using TensorFlow.js for regression analysis. Built with HTML, Bootstrap, and Plotly.js.
 - **[Expense Tracker](#)**: A web app to manage daily expenses, using Django for the backend and PostgreSQL for data storage.
 - **[Stock Price Visualizer](#)**: A tool to fetch and visualize historical stock prices, built with Python, Pandas, and Matplotlib.
 
