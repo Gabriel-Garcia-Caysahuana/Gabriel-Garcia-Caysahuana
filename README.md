@@ -107,6 +107,6 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40"/>
   </a>
 </p>
-<p align="center">Feel free to connect with me on LinkedIn!</p>
+<p align="center">Feel free to connect with me on LinkedIn! </p>
 
 
