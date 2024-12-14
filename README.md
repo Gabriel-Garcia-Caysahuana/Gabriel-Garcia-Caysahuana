@@ -7,7 +7,7 @@
 
 ### Projects:
 - **[My Blog Personal Website](https://blog-garcia-caysahuana.fly.dev/)**: Responsive personal blog using Django and Bootstrap, where I share articles of my own, including summaries, annotations, tutorials, and concepts. This space allows me to organize my notes and, at the same time, share them with others.
-- **[Time Series Visualizer and Predictor](https://scraper-api-bcrp-series-web.fly.dev/)**: A responsive web app (currently under development for more functionalities of different prediction models) that retrieves and visualizes historical data from the BCRP platform. It features interactive graphs (box plots, line charts, and annual comparisons) and real-time predictions using TensorFlow.js for regression analysis. Built with HTML, Bootstrap, and Plotly.js
+- **[Time Series Visualizer](https://scraper-api-bcrp-series-web.fly.dev/)**: A responsive web app (currently under development for more functionalities of different prediction models) that retrieves and visualizes historical data from the BCRP platform. It features interactive graphs (box plots, line charts, and annual comparisons) and real-time predictions using TensorFlow.js for regression analysis. Built with HTML, Bootstrap, and Plotly.js
 
 
 ### Languages:
