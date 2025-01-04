@@ -6,9 +6,9 @@
 <h3 align="center">A passionate Algorithms and backend developer from Perú</h3>
 
 ### Projects:
-- **[My Blog Personal Website](https://blog-garcia-caysahuana.fly.dev/)**: Responsive personal blog using Django and Bootstrap, where I share articles of my own, including summaries, annotations, tutorials, and concepts. This space allows me to organize my notes and, at the same time, share them with others.
-- **[Time Series Visualizer](https://scraper-api-bcrp-series-web.fly.dev/)**: A responsive web app (currently under development for more functionalities of different prediction models) that retrieves and visualizes historical data from the BCRP platform. It features interactive graphs (box plots, line charts, and annual comparisons) and real-time predictions using TensorFlow.js for regression analysis. Built with HTML, Bootstrap, and Plotly.js
-
+- **[EcoDatos Perú](https://gabriel-garcia-caysahuana.github.io/frontend-data-bcrp-api)**: Herramienta interactiva y especializada para el análisis de datos proporcionados por el Banco Central de Reserva del Perú (BCRP). Este sistema cuenta con un frontend intuitivo, diseñado para facilitar la navegación y el acceso a información clave, el cual se integra eficientemente con una API dedicada al procesamiento y análisis de datos financieros. La arquitectura del proyecto está diseñada bajo principios de modularidad y escalabilidad, lo que permite su fácil expansión y personalización según las necesidades del usuario o del entorno. Además, se prioriza una experiencia de usuario fluida, garantizando rapidez, accesibilidad y una presentación clara de los datos, con el objetivo de empoderar a los usuarios en la toma de decisiones informadas.
+  
+- **[Mi espacio digital](https://blog-garcia-caysahuana.fly.dev/)**: Sitio web dinámico y profesional que combina un blog personal con herramientas para gestionar proyectos y contenido personalizado. Ideal para organizar y compartir información de forma efectiva. Su diseño intuitivo garantiza una experiencia interactiva para el usuario.
 
 ### Languages:
 <p align="left">
