@@ -10,15 +10,25 @@
 - **[Plataforma Académica que usa gamificación](https://ramanujax.com)**:  Plataforma académica para gestion de cursos, clases virtuales, ediciones de cursos, gestion de horarios, gestión de preguntas de gamificación, rankings, rachas, niveles, otras métricas para alumnos de clase y global.
 - **[EcoDatos Perú]()**: **Proyecto guardado, si desea myor detalle mande un mensaje a garciacaysahuana@gmail.com.** Herramienta interactiva y especializada para el análisis de datos proporcionados por el Banco Central de Reserva del Perú (BCRP). Este sistema cuenta con un frontend intuitivo, diseñado para facilitar la navegación y el acceso a información clave, el cual se integra eficientemente con una API dedicada a la recuperación, procesamiento y cálculo de datos. La arquitectura del proyecto está diseñada bajo principios de modularidad y escalabilidad, lo que permite su fácil expansión y personalización según las necesidades del usuario o del entorno. Además, se prioriza una experiencia de usuario fluida, garantizando rapidez, accesibilidad y una presentación clara de los datos, con el objetivo de empoderar a los usuarios en la toma de decisiones informadas. 
   
-- **[Mi espacio digital](https://blog-garcia-caysahuana.fly.dev/)**: Sitio web dinámico y profesional que combina un blog personal con herramientas para gestionar proyectos y contenido personalizado. Ideal para organizar y compartir información de forma efectiva. Su diseño intuitivo garantiza una experiencia interactiva para el usuario.
 
 ### Languages:
 <p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 </p>
+
+
 
 ### Frameworks & Libraries:
 <p align="left">
