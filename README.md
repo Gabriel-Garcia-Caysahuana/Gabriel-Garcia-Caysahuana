@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+profile!;I+love+learning+and+creating." />
 </p>
 
-<h3 align="center">A passionate Algorithms and backend developer from Perú</h3>
+<h3 align="center">Ingeniero Económico & Backend/Data Developer. Especializado en análisis cuantitativo, automatización de datos (Python/SQL) y desarrollo web (Django). Creador de RamanujaX (SaaS EdTech).</h3>
 
 ### Projects:
 
